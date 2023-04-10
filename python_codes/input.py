@@ -1,0 +1,10 @@
+name  = input("What is your name ?:  ")
+print(name)
+
+phone  = input("What is your phone number ?  ")
+print(phone)
+print("\n")
+num1  = int(input("Enter first number ?:  "))
+print(num1)
+num2  = int(input("Enter second number ?:  "))
+print(num2)
